@@ -1,6 +1,4 @@
-<h1 align="center"> Hey there! I'm Balram Rathore <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h1>
-
-<h4 align="center">I'm a Software Developer and IT Enthusiast.</h4>
+<h2 align="center"> Hey there! I'm Akinkunmi Gbolahan Nasiru a Software Developer and IT Enthusiast.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h2>
 
 ## ⚡ Technologies
 ![Flutter](https://img.shields.io/badge/-Flutter-teal?style=flat-square&logo=Flutter)
