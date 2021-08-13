@@ -68,14 +68,14 @@
 
 <p>
   <img src = "https://github-readme-stats.vercel.app/api?username=Nasiru-code&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nasiru-code&line_height=27&include_all_commits=true&count_private=true&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nasiru-code&layout=compact&line_height=27&include_all_commits=true&count_private=true&theme=tokyonight">
 </p>
 
 </details>
 
 
 
-<div align="center">
+<div>
 
 ### If you like my work, consider giving the repositories a :star: or fork-ing it to show some :heart: :)
 
