@@ -4,18 +4,20 @@
    <img src="https://github-readme-stats.vercel.app/api?username=Nasiru-code&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&count_private=true&theme=graywhite" alt="Akinkunmi Gbolahan Nasiru"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasiru-code&layout=compact&show_icons=true&hide_title=true&line_height=21" alt="Akinkunmi Gbolahan Nasiru"/> 
 </p> -->
-### Hello World! 👋
 
+<div align="center">
 
-<p> I am Nasiru, a Software Developer and IT enthusiast</p>
-<p> I'm open for collaboration on some interesting ideas, so feel free to get in touch with me :) </p>
+  ### Hello World! 👋
+  <p> I am Nasiru, a Software Developer and IT enthusiast</p>
+  <p> I'm open for collaboration on some interesting ideas, so feel free to get in touch with me :) </p>
+</div>
 
 <details open>
 <summary><b>Technologies and Frameworks</b></summary>
 
 <br>
 
-<p align = "center">
+<p>
 
  <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -45,7 +47,7 @@
 <details open>
 <summary><b>Social Handles</b></summary>
 
-<p align = "center">
+<p>
 
 [<img src="https://img.shields.io/badge/-Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:akingbolahan12@gmail.com" />](mailto:akingbolahan12@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akinkunmi-gbolahan-nasiru-49a369199/)
@@ -65,9 +67,9 @@
 
 <br>
 
-<p align = "center">
+<p>
   <img src = "https://github-readme-stats.vercel.app/api?username=Nasiru-code&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nasiru-code&include_all_commits=true&count_private=true&hide=java,jupyter notebook&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nasiru-code&include_all_commits=true&count_private=true&theme=tokyonight">
 </p>
 
 </details>
@@ -86,3 +88,4 @@
    <br>
 <br>	
 </p>
+
