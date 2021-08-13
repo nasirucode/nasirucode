@@ -4,8 +4,7 @@
    <img src="https://github-readme-stats.vercel.app/api?username=Nasiru-code&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&count_private=true&theme=graywhite" alt="Akinkunmi Gbolahan Nasiru"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasiru-code&layout=compact&show_icons=true&hide_title=true&line_height=21" alt="Akinkunmi Gbolahan Nasiru"/> 
 </p> -->
-
-<div align="center">
+<div>
 
   ### Hello World! 👋
   <p> I am Nasiru, a Software Developer and IT enthusiast</p>
@@ -69,7 +68,7 @@
 
 <p>
   <img src = "https://github-readme-stats.vercel.app/api?username=Nasiru-code&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nasiru-code&include_all_commits=true&count_private=true&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nasiru-code&layout=compact&include_all_commits=true&count_private=true&theme=tokyonight">
 </p>
 
 </details>
@@ -88,4 +87,3 @@
    <br>
 <br>	
 </p>
-
