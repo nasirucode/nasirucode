@@ -67,8 +67,8 @@
 <br>
 
 <p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=Nasiru-code&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nasiru-code&layout=compact&line_height=27&include_all_commits=true&count_private=true&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Nasiru-code&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=21">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nasiru-code&layout=compact&line_height=21&include_all_commits=true&count_private=true&theme=tokyonight">
 </p>
 
 </details>
