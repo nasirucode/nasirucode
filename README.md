@@ -45,8 +45,8 @@
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/AkinkunmiGbola3)
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/gbolahan.akinkunmi.3) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/omor_gbolahan/)
-[![Visits Badge](https://badges.pufler.dev/visits/Nasiru-code/Nasiru-code?style=for-the-badge)](https://github.com/Nasiru-code/Nasiru-code)
-![Repos Badge](https://badges.pufler.dev/repos/Nasiru-code?style=for-the-badge)
+[![Visits Badge](https://badges.pufler.dev/visits/Nasware/Nasware?style=for-the-badge)](https://github.com/Nasware/Nasware)
+![Repos Badge](https://badges.pufler.dev/repos/Nasware?style=for-the-badge)
 </p>
 
 </details>
