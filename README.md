@@ -5,8 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasiru-code&layout=compact&show_icons=true&hide_title=true&line_height=21" alt="Akinkunmi Gbolahan Nasiru"/> 
 </p> -->
 <div>
-  <h2> Hi there! I'm Nasiru a Software Developer and IT Enthusiast. :wave:</h2> 
-  ---
+  <h2> Hi there! I'm Nasiru a Software Developer and IT Enthusiast. :wave:</h2>
 <!--   ### Hello World! 👋 -->
 <!--   <p> I am Nasiru, a Software Developer and IT enthusiast</p> -->
   - :speech_balloon: I'm open for collaboration on some interesting ideas, so feel free to get in touch with me :)
@@ -41,13 +40,11 @@
 
 <p>
 
-[<img src="https://img.shields.io/badge/-Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:akingbolahan12@gmail.com" />](mailto:akingbolahan12@gmail.com)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akinkunmi-gbolahan-nasiru-49a369199/)
+[![Gmail]<img src="https://img.shields.io/badge/-Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:akingbolahan12@gmail.com" />](mailto:akingbolahan12@gmail.com)
+[![LinkedIn]<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akinkunmi-gbolahan-nasiru-49a369199/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/AkinkunmiNasiru)
-[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/gbolahan.akinkunmi.3) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/omor_gbolahan/)
-[![Visits Badge](https://badges.pufler.dev/visits/nasirucode/nasirucode?style=for-the-badge)](https://github.com/nasirucode/nasirucode)
-![Repos Badge](https://badges.pufler.dev/repos/nasirucode?style=for-the-badge)
+[![nasirucode.com](https://img.shields.io/badge/-NASIRUCODE.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://nasirucode.com/)
 </p>
 
 </details>
