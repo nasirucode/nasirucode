@@ -58,7 +58,7 @@
 <br>
 
 <p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=nasirucode&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=21">
+  <img src = "https://github-readme-stats.vercel.app/api?username=nasirucode&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=21" style="width: 50px;">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nasirucode&layout=compact&line_height=21&include_all_commits=true&count_private=true&theme=tokyonight">
 </p>
 
