@@ -4,12 +4,10 @@
    <img src="https://github-readme-stats.vercel.app/api?username=Nasiru-code&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&count_private=true&theme=graywhite" alt="Akinkunmi Gbolahan Nasiru"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasiru-code&layout=compact&show_icons=true&hide_title=true&line_height=21" alt="Akinkunmi Gbolahan Nasiru"/> 
 </p> -->
-<div>
   <h2> Hi there! I'm Nasiru a Software Developer and IT Enthusiast. :wave:</h2>
-<!--   ### Hello World! 👋 -->
-<!--   <p> I am Nasiru, a Software Developer and IT enthusiast</p> -->
-  - :speech_balloon: I'm open for collaboration on some interesting ideas, so feel free to get in touch with me :)
-</div>
+  
+  - :speech_balloon: I'm open for collaboration on some interesting ideas, so feel free to get in touch with me!
+
 <br>
 <details open>
 <summary><b>Social Handles</b></summary>
