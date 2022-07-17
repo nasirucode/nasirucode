@@ -42,11 +42,11 @@
 
 [<img src="https://img.shields.io/badge/-Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:akingbolahan12@gmail.com" />](mailto:akingbolahan12@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akinkunmi-gbolahan-nasiru-49a369199/)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/AkinkunmiGbola3)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/AkinkunmiNasiru)
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/gbolahan.akinkunmi.3) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/omor_gbolahan/)
-[![Visits Badge](https://badges.pufler.dev/visits/Nasware/Nasware?style=for-the-badge)](https://github.com/Nasware/Nasware)
-![Repos Badge](https://badges.pufler.dev/repos/Nasware?style=for-the-badge)
+[![Visits Badge](https://badges.pufler.dev/visits/nasirucode/nasirucode?style=for-the-badge)](https://github.com/nasirucode/nasirucode)
+![Repos Badge](https://badges.pufler.dev/repos/nasirucode?style=for-the-badge)
 </p>
 
 </details>
@@ -59,8 +59,8 @@
 <br>
 
 <p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=nasware&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=21">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nasware&layout=compact&line_height=21&include_all_commits=true&count_private=true&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=nasirucode&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=21">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nasirucode&layout=compact&line_height=21&include_all_commits=true&count_private=true&theme=tokyonight">
 </p>
 
 </details>
