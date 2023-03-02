@@ -6,7 +6,7 @@
 </p> -->
   <h2> Hi there! I'm Nasiru a Software Developer and IT Enthusiast. :wave:</h2>
   
-  - :speech_balloon: I'm open for collaboration on some interesting ideas, so feel free to get in touch with me!
+  - :speech_balloon: I'm open for collaboration and software development jobs, so feel free to get in touch with me!
 
 <br>
 <details open>
