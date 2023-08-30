@@ -15,7 +15,7 @@
 <p>
 
 [<img src="https://img.shields.io/badge/-Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:akingbolahan12@gmail.com" />](mailto:akingbolahan12@gmail.com)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akinkunmi-gbolahan-nasiru-49a369199/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akinkunmi-gbolahan-nasiru/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/AkinkunmiNasiru)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/nasirucode/)
 [![nasirucode.com](https://img.shields.io/badge/-NASIRUCODE.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://nasirucode.com/)
