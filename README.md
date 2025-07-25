@@ -37,8 +37,7 @@
  <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
  <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
  <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
- <img src="https://img.shields.io/badge/erpnext?&style=for-the-badge&logo= erpnext&logoColor=#0089FF"/>
- <img src="https://img.shields.io/badge/erpnext-white?logo=erpnext" />
+ <img src="https://img.shields.io/badge/erpnext-white?logo=erpnext&style=for-the-badge" />
  <img src="https://img.shields.io/badge/mariadb-%2300f.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/>
  
 </p>
